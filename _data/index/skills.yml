@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: C/C++, Python, Linux, Git, OpenCV, OpenGL, Caffe, Boost, English, Unity3D, C#, MATLAB
+percentage: 85, 65, 60, 80, 95, 90, 90, 90, 95, 80, 95, 70
