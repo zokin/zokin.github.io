@@ -6,7 +6,8 @@
     "home": "Home",
     "about_me": "About",
     "skills": "Skills",
-    "projects": "Publications",
+    "projects": "Projects",
+	"publications": "Publications",
     "career": "Education",
     "blog": "Blog",
     "link": "Link"
@@ -19,7 +20,10 @@
     "my_skills": "Skills"
   },
   "projects":{
-    "my_projects": "Publications"
+    "my_projects": "Projects"
+  },
+  "publications":{
+    "my_publications": "Publications"
   },
   "career":{
     "my_career": "Education",

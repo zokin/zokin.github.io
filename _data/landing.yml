@@ -20,9 +20,14 @@
 
 - id: projects
   i18n: nav.projects
-  name: Publications
+  name: Projects
   tpl: projects.html
   css: project
+- id: publications
+  i18n: nav.publications
+  name: Publications
+  tpl: publications.html
+  css: publications
 
 #- id: blog
 #  i18n: nav.blog
