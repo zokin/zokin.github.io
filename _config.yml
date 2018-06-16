@@ -16,7 +16,7 @@ author:  # change following line to your infomation.
   name: Nick  # Be used at blog posts' author.
   first_name: Nikolaos  # Be used at index page about me section.
   last_name: Zioulis  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar_pastel.png  # upload your avatar at directory and edit it.
   github_username: zokin  # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
