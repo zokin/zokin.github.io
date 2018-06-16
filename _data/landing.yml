@@ -4,7 +4,7 @@
   i18n: nav.about_me
   name: About
   tpl: about.html
-  css:
+  css: section
 
 - id: career
   i18n: nav.career
@@ -23,6 +23,7 @@
   name: Projects
   tpl: projects.html
   css: project
+  
 - id: publications
   i18n: nav.publications
   name: Publications

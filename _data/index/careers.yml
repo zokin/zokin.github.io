@@ -15,7 +15,7 @@
   job:
     detail: Research Assistant
     i18n: # sdu_a_job
-  icon: fa-graduation-cap
+  icon: fa-suitcase
 
 - name:
     detail: School of Electrical Engineering, Aristotle University Thessaloniki

@@ -25,11 +25,11 @@ author:  # change following line to your infomation.
   cv: # /static/assets/pdf/landing/Bin_CV_en_cn.pdf  # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-linux
+    - name: fa-film
     - name: fa-camera
   skill_icon2:
-    - name: icon-shell
-    - name: icon-apache
+    - name: fa-code
+    - name: fa-terminal
   desc: I am an engineer working on the verge of computer graphics, computer vision and software engineering. My research interests and working experience are mainly in 3D computer vision and graphics, targeting innovative applications for augmented and virtual reality, including 3D human reconstruction and applied in tele-immersion / holoportation settings. I am also endulging myself into Deep Learning. # Describe yourself.
 
 # comment

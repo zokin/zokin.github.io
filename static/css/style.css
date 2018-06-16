@@ -6234,7 +6234,7 @@ table.shoping-cart-table tr td:last-child {
 .vote-icon {
     text-align: right;
     font-size: 38px;
-    color: #e8e9ea
+    color: #e8e9ea;
 }
 
 .lightBoxGallery,
@@ -6242,8 +6242,8 @@ table.shoping-cart-table tr td:last-child {
     text-align: center
 }
 
-.vote-icon.active {
-    color: #3385FF
+.vote-icon.active {    
+	color: #3385FF
 }
 
 body.body-small .vote-icon {
@@ -7331,7 +7331,7 @@ body.landing-page {
 }
 
 .landing-page section p {
-    color: #aeaeae;
+    color: #d2d2c6;
     font-size: 13px
 }
 
@@ -7650,7 +7650,7 @@ body.landing-page {
 }
 
 .landing-page .gray-section {
-    background: #f4f4f4;
+    background: #b0b09b;
     margin-top: 60px
 }
 
