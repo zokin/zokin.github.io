@@ -8196,7 +8196,3 @@ body.rtls.top-navigation .footer.fixed {
 .rtls #right-sidebar.sidebar-open {
     left: 0
 }
-
-.landing-page .img-scaled {
-   height: auto; width: auto; max-width: 200px; max-height: 200px;
-}

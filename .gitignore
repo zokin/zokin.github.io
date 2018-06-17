@@ -1,4 +1,5 @@
 _site
+[Bb]uild
 .sass-cache
 .jekyll-metadata
 .idea
@@ -6,3 +7,17 @@ _site
 node_modules
 npm-debug.log
 _drafts
+
+
+# Created by https://www.gitignore.io/api/visualstudiocode
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+
+
+# End of https://www.gitignore.io/api/visualstudiocode
