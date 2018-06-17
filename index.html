@@ -1,8 +1,30 @@
 ---
 layout: blog
-title: index
+title: Nikolaos Zioulis
 permalink: /
 ---
+
+<meta content="Nick's Place" property="og:site_name">
+<meta content="Nikolaos Zioulis" property="og:title">
+<meta content="website" property="og:type">
+<meta content="Nikolaos Zioulis, an electrical and computer science engineer." property="og:description">
+<meta content="https://zokin.github.io" property="og:url">
+{% if page.date %}
+  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+  <meta content="{{ site.url }}/about/" property="article:author">
+{% endif %}
+ <meta content="https://zokin.github.io/assets/img/avatar.png" property="og:image">
+{% if page.categories %}
+  {% for category in page.categories limit:1 %}
+  <meta content="{{ category }}" property="article:section">
+  {% endfor %}
+{% endif %}
+{% if page.tags %}
+  {% for tag in page.tags %}
+  <meta content="{{ tag }}" property="article:tag">
+  {% endfor %}
+{% endif %}
+
 
 <div class="navbar-wrapper">
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
