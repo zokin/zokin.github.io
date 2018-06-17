@@ -17,20 +17,20 @@
     i18n: # sdu_a_job
   icon: fa-suitcase
 
-- name:
-    detail: School of Electrical Engineering, Aristotle University Thessaloniki
-    i18n: # sdu_b
-  desc:
-    detail: Bachelor Degree in Eletrical and Computer Engineering
-    i18n: # sdu_b_desc
+#- name:
+#    detail: School of Electrical Engineering, Aristotle University Thessaloniki
+#    i18n: # sdu_b
+#  desc:
+#    detail: Bachelor Degree in Eletrical and Computer Engineering
+#    i18n: # sdu_b_desc
   #advisor:
     #detail: 
     #i18n: 
-  date:
-    detail: Sep. 2002 - Jul. 2012
-    i18n: # sdu_b_date
-  job:
-    detail: Undergraduate
-    i18n: # sdu_b_job
-  icon: fa-graduation-cap
+#  date:
+#    detail: Sep. 2002 - Jul. 2012
+#    i18n: # sdu_b_date
+#  job:
+#    detail: Undergraduate
+#    i18n: # sdu_b_job
+#  icon: fa-graduation-cap
 
