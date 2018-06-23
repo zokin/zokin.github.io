@@ -2,5 +2,5 @@
 
 label: Ability
 id : os
-aspects: Vision, Graphics, Learning, VR, AR, Media
+aspects: Computer Vision, Computer Graphics, Machine Learning, Virtual Reality, Augmented Reality, Multimedia
 percentage: 85, 80, 65, 50, 60, 75
