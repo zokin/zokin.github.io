@@ -5,7 +5,7 @@
             <h1><span data-i18n="publications.my_publications">Publications</span></h1>
         </div>
     </div>
-    <div class="row">
+    <!-- <div class="row">
         {% for publication in site.data.index.publications %}
             {% assign loopindex = forloop.index | modulo: 1 %}
             {% if forloop.last %}
@@ -37,15 +37,22 @@
               </div>
           </div>
       {% endfor %}
-    </div>
+    </div> -->
+    <h2 align="center" style="font-size: 26px; color: #3385FF; font-weight: bold;"><span>Journals</span></h2>
+    <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/zokin/zokin.github.io/master/static/assets/bib/journals.bib&jsonp=1&nocache=0"></script>
+
+    <h2 align="center" style="font-size: 26px; color: #3385FF; font-weight: bold;"><span>Conferences</span></h2>
+    <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/zokin/zokin.github.io/master/static/assets/bib/conferences.bib&jsonp=1&nocache=0"></script>
+
+    <h2 align="center" style="font-size: 26px; color: #3385FF; font-weight: bold;"><span>Other</span></h2>
+    <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/zokin/zokin.github.io/master/static/assets/bib/other.bib&jsonp=1&nocache=0"></script>
+
 	<div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
             <strong>&copy; 2018 {{ site.author.first_name}} {{ site.author.last_name}}</strong></p>
         </div>
     </div>
     <!-- TEST -->
-
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/zokin/zokin.github.io/master/static/assets/bib/journals.bib&jsonp=1&nocache=0"></script>
 
 <!--<h6>Journals</h6><ul class="publications">
           <script type="text/javascript">
