@@ -5,7 +5,163 @@
             <h1><span data-i18n="skills.my_skills">Skills</span></h1>
         </div>
     </div>
-    <div class="row features-block">
+
+<div class="row" style="width: 100%">
+        <div class="" id="left_cavnas" style="float: left; width: 30%; height: 100%;">
+            <canvas id="{{ site.data.index.overall_skills.id }}"></canvas>             
+        </div>
+        <div class="" id="middle_cavnas" style="float: right; width: 30%; height: 100%;">
+           <canvas id="{{ site.data.index.library_skills.id }}"></canvas>
+        </div>
+        <div class="" id="right_cavnas" style="float: right; width: 30%; height: 100%;">
+           <canvas id="{{ site.data.index.programming_skills.id }}"></canvas>
+        </div>
+        <div class="col-lg-1"></div>
+        <script>
+        var ctx = document.getElementById("{{ site.data.index.programming_skills.id }}");
+        var data = {
+            labels: "{{ site.data.index.programming_skills.aspects }}".split(","),
+            datasets: [{
+                label: "{{ site.data.index.programming_skills.label }}",
+                backgroundColor: "rgba(179,181,198,0.2)",
+                //backgroundColor:["rgb(255, 99, 132)","rgb(75, 192, 192)","rgb(255, 205, 86)","rgb(201, 203, 207)","rgb(54, 162, 235)"],
+                borderColor: "#3385FF",
+                pointBackgroundColor: "#3385FF",
+                pointBorderColor: "#fff",
+                pointHoverBackgroundColor: "#3385FF",
+                pointHoverBorderColor: "#3385FF",
+                data: [{{ site.data.index.programming_skills.percentage }}]
+                }]
+        };
+        var myRadarChart = new Chart(ctx, {
+            type: 'radar',
+            data: data,
+            options: {
+                scale: {
+                    responsive: true,
+                    ticks: {min: 0, max: 100},
+                    lineArc: false,
+                    pointLabels: {fontSize: 14},
+                },
+                legend: {display: false},
+                title: {
+                    display: true,
+                    text: 'Programming',
+                    fontSize: 14,
+                    fontColor: '#3385FF',
+                    fontStyle: 'bold'
+                }
+            }
+        });
+
+        var ctx2 = document.getElementById("{{ site.data.index.overall_skills.id }}");
+        var data2 = {
+            labels: "{{ site.data.index.overall_skills.aspects }}".split(","),
+            datasets: [{
+                label: "{{ site.data.index.overall_skills.label }}",
+                backgroundColor: "rgba(179,181,198,0.2)",
+                borderColor: "#3385FF",
+                pointBackgroundColor: "#3385FF",
+                pointBorderColor: "#fff",
+                pointHoverBackgroundColor: "#3385FF",
+                pointHoverBorderColor: "#3385FF",
+                data: [{{ site.data.index.overall_skills.percentage }}]
+                }]
+        };
+        var myRadarChart2 = new Chart(ctx2, {
+            type: 'radar',
+            data: data2,
+            options: {
+                scale: {
+                    responsive: true,
+                    ticks: {min: 0, max: 100},
+                    lineArc: false,
+                    pointLabels: {fontSize: 14},
+                },
+                legend: {display: false},
+                title: {
+                    display: true,
+                    text: 'Overall',
+                    fontSize: 14,
+                    fontColor: '#3385FF',
+                    fontStyle: 'bold'
+                }
+            }
+        });
+
+        var ctx3 = document.getElementById("{{ site.data.index.library_skills.id }}");
+        var data = {
+            labels: "{{ site.data.index.library_skills.aspects }}".split(","),
+            datasets: [{
+                label: "{{ site.data.index.library_skills.label }}",
+                backgroundColor: "rgba(179,181,198,0.2)",
+                borderColor: "#3385FF",
+                pointBackgroundColor: "#3385FF",
+                pointBorderColor: "#fff",
+                pointHoverBackgroundColor: "#3385FF",
+                pointHoverBorderColor: "#3385FF",
+                data: [{{ site.data.index.library_skills.percentage }}]
+                }]
+        };
+        var myRadarChart3 = new Chart(ctx3, {
+            type: 'radar',
+            data: data,
+            options: {
+                scale: {
+                    responsive: true,
+                    ticks: {min: 0, max: 100},
+                    lineArc: false,
+                    pointLabels: {fontSize: 14},
+                },
+                legend: {display: false},
+                title: {
+                    display: true,
+                    text: 'Libraries',
+                    fontSize: 14,
+                    fontColor: '#3385FF',
+                    fontStyle: 'bold'
+                }
+            }
+        });
+        </script>
+    </div>
+
+    <!--<div class="row features-block">
+        <div class="wow zoomIn col-lg-6 col-lg-offset-3">
+            <canvas id="{{ site.data.index.knowledge.id }}" height="500" width="500"></canvas>
+        </div>
+        <div class="col-lg-1"></div>
+        <script>
+        var ctx = document.getElementById("{{ site.data.index.knowledge.id }}");
+        var data = {
+            labels: "{{ site.data.index.knowledge.aspects }}".split(","),
+            datasets: [{
+                label: "{{ site.data.index.knowledge.label }}",
+                backgroundColor: "rgba(179,181,198,0.2)",
+                borderColor: "#3385FF",
+                pointBackgroundColor: "#3385FF",
+                pointBorderColor: "#fff",
+                pointHoverBackgroundColor: "#3385FF",
+                pointHoverBorderColor: "#3385FF",
+                data: [{{ site.data.index.knowledge.percentage }}]
+                }]
+        };
+        var myRadarChart = new Chart(ctx, {
+            type: 'radar',
+            data: data,
+            options: {
+                scale: {
+                    responsive: true,
+                    ticks: {min: 0, max: 10},
+                    lineArc: false,
+                    pointLabels: {fontSize: 14},
+                },
+                legend: {display: false},
+            }
+        });
+        </script>
+    </div>-->
+    <!--<div class="row features-block">
         <div class="wow zoomIn col-lg-6 col-lg-offset-3">
             <canvas id="{{ site.data.index.skills.id }}" height="500" width="500"></canvas>
         </div>
@@ -39,5 +195,5 @@
             }
         });
         </script>
-    </div>
+    </div>-->
 </div>

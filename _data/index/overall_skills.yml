@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : os
+aspects: Vision, Graphics, Learning, VR, AR, Media
+percentage: 85, 80, 65, 50, 60, 75
