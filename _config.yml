@@ -30,6 +30,7 @@ author:  # change following line to your infomation.
     #- name: fa-eye
     - icon:
       name: icon-3dprint
+      #name: ai ai-google-scholar ai-3x
       color: '#808080'
       #color: '#34CAAD'
     - icon:

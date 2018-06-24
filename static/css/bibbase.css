@@ -198,6 +198,14 @@ span.bibbase_group_head {
     font-size: 12pt;
 }
 
+img.img_fancy {
+ -moz-border-radius: 6px 6px 6px 6px;
+ -webkit-border-radius: 6px;
+ -moz-box-shadow: 5px 5px 5px #888;
+ -webkit-box-shadow: 5px 5px 5px #888;
+}
+
+
 #group_article div.bibbase_group i+span { display: none; }
 #group_inproceedings div.bibbase_group i+span { display: none; }
 #group_mastersthesis div.bibbase_group i+span { display: none; }
@@ -215,7 +223,7 @@ span.bibbase_group_head {
 #group_incollection div.bibbase_group i:after { content: " In Collection" }
 
 
-a:link { color:#0000b0; text-decoration:none; }
+/*a:link { color:#0000b0; text-decoration:none; }
 a:visited { color:#3030a0; text-decoration:none;} 
 a:hover { color:#FA7200; text-decoration:underline;}
 a:active { color:#3030f0; text-decoration:none;}
@@ -232,7 +240,7 @@ cfidea { font-family: serif; font-style: italic; color:#4040C0 }
 cfclass { color:#409000; font-family: serif; }
 cflearn { color:#F000F0; }
 .cflearn { background-color:#400040; }
-cfmath { font-style: italic; }
+cfmath { font-style: italic; }*/
 
 
 ul { margin-top:0.2em; margin-bottom:0.0em; }
@@ -244,3 +252,44 @@ hr .dashed { border:1px dashed }
 
 /* notes background */
 td .notes { background-color:#B0B0B0; }
+
+
+.bibbase.read {
+    border-radius: 3px 3px 3px 3px;
+    color: #bbb !important;
+    padding: 1px 8px 1px 8px;
+    display: inline-block;
+    /* width: 20px; */
+    overflow: hidden;
+    white-space: nowrap;
+    transition: width 0.5s, background-color 0.5s;
+    -webkit-transition: width 0.5s, background-color 0.5s;
+    vertical-align: middle;
+    font-size: 1vh;
+}
+
+.bibbase.read span {
+    width: 0px;
+}
+
+.bibbase.read.hasread {
+    color: #63CF5F !important;
+}
+
+.bibbase.read:hover {
+    background-color: #ddd;
+    width: 20vh;
+}
+
+.bibbase.read:hover span {
+    width: inherit;
+}
+
+.bibbase.read.hidden {
+    /* #LATER: Remove this class for logged in users. */
+    display: none;
+}
+
+#bibbase li {
+    list-style: none;
+}
