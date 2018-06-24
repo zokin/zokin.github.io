@@ -65,16 +65,33 @@ img.bibbase_icon:hover {
 }
 
 .bibbase_icon_text {
-  color: #5D0001;
-  font-size: 9pt;
+  color: #3385FF;
+  font-weight: bold;
+  font-size: 12pt;
   line-height: 12pt;
   margin-bottom: 10px;
   text-decoration: none;
 }
 
-.bibbase_icon_text:after {
-  content: " | ";
+a .bibbase_icon {
+     display: none;
 }
+
+a .bibbase_icon_text { 
+    display: inline-block; 
+}
+
+.bibbase_icon_text:before {
+	content:"[";
+}
+
+.bibbase_icon_text:after {
+	content:" ]";
+}
+
+/*.bibbase_icon_text:after {
+  content: " | ";
+}*/
 
 span.bibbase_icon_text {
   text-decoration: none;
