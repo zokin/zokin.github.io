@@ -13,7 +13,7 @@
     margin-right: 5px;
 }
 
-#bibbase_header a[onclick="groupby('downloads')"] { display: none; }
+/*#bibbase_header a[onclick="groupby('downloads')"] { display: none; }*/
 
 .groupby_dropdown {
   display: none;
@@ -71,6 +71,10 @@ img.bibbase_icon:hover {
   line-height: 12pt;
   margin-bottom: 10px;
   text-decoration: none;
+}
+
+span.bibbase_icon_text {
+  display: inline;
 }
 
 a .bibbase_icon {
@@ -223,6 +227,7 @@ img.img_fancy {
 }
 
 
+/*
 #group_article div.bibbase_group i+span { display: none; }
 #group_inproceedings div.bibbase_group i+span { display: none; }
 #group_mastersthesis div.bibbase_group i+span { display: none; }
@@ -238,6 +243,7 @@ img.img_fancy {
 #group_techreport div.bibbase_group i:after { content: " Technical Report" }
 #group_unpublished div.bibbase_group i:after { content: " Unpublished" }
 #group_incollection div.bibbase_group i:after { content: " In Collection" }
+*/
 
 
 /*a:link { color:#0000b0; text-decoration:none; }
