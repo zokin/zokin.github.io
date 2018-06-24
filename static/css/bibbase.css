@@ -3,14 +3,20 @@
   font-size: 20px;
 }
 
-#bibbase_header a {
+/*#bibbase_header a {
     text-decoration: none;
-}
+}*/
 
 #bibbase_header i {
     width: 16px;
     text-align: center;
     margin-right: 5px;
+}
+
+#bibbase_header a[onclick="groupby('downloads')"] { display: none; }
+
+.groupby_dropdown {
+  display: none;
 }
 
 .bibbase_group {
@@ -31,7 +37,7 @@
 }
 
 .bibbase_paper { /*e.g. journal / conference title */
-  font-size: 14pt;
+  font-size: 12pt;
 }
 
 
@@ -93,7 +99,7 @@ span.bibbase_paper_titleauthoryear {
 
 span.bibbase_paper_title {
   color: #000000;
-  font-size: 16pt;
+  font-size: 14pt;
   /*line-height: 12pt;*/
   font-weight: bold;
   display: block;
@@ -112,7 +118,7 @@ span.bibbase_paper_title a:hover {
 
 span.bibbase_paper_author {
   color: #000000;
-  font-size: 14pt;  
+  font-size: 12pt;  
   /*line-height: 12pt;*/
   margin-bottom: 0px;
 }
@@ -193,3 +199,49 @@ span.bibbase_group_head {
     font-size: 12pt;
 }
 
+#group_article div.bibbase_group i+span { display: none; }
+#group_inproceedings div.bibbase_group i+span { display: none; }
+#group_mastersthesis div.bibbase_group i+span { display: none; }
+#group_phdthesis div.bibbase_group i+span { display: none; }
+#group_techreport div.bibbase_group i+span { display: none; }
+#group_unpublished div.bibbase_group i+span { display: none; }
+#group_incollection div.bibbase_group i+span { display: none; }
+
+#group_article div.bibbase_group i:after { content: " Journal Articles" }
+#group_inproceedings div.bibbase_group i:after { content: " Conference and Workshop Publications" }
+#group_mastersthesis div.bibbase_group i:after { content: " Master's Thesis" }
+#group_phdthesis div.bibbase_group i:after { content: " PhD Thesis" }
+#group_techreport div.bibbase_group i:after { content: " Technical Report" }
+#group_unpublished div.bibbase_group i:after { content: " Unpublished" }
+#group_incollection div.bibbase_group i:after { content: " In Collection" }
+
+
+a:link { color:#0000b0; text-decoration:none; }
+a:visited { color:#3030a0; text-decoration:none;} 
+a:hover { color:#FA7200; text-decoration:underline;}
+a:active { color:#3030f0; text-decoration:none;}
+a:focus { font-style:italic; text-decoration:none;}
+
+cfdef { color:green; }
+cfassume { color:red; }
+cfdisagree { color:olive; }
+cfdiff { color:orange; }
+cflike { color:blue; }
+cfemph { color:yellow; }
+cfcomment { font-family: serif; font-style: italic; }
+cfidea { font-family: serif; font-style: italic; color:#4040C0 }
+cfclass { color:#409000; font-family: serif; }
+cflearn { color:#F000F0; }
+.cflearn { background-color:#400040; }
+cfmath { font-style: italic; }
+
+
+ul { margin-top:0.2em; margin-bottom:0.0em; }
+h4,h5,h6 { margin-top:2em; margin-bottom:0.0em; }
+
+
+/* for dashed HRs */
+hr .dashed { border:1px dashed }
+
+/* notes background */
+td .notes { background-color:#B0B0B0; }
