@@ -1,6 +1,6 @@
 #bibbase {
   font-family: "Lucida Sans", 'Segoe UI', 'Consolas', 'Calibri';
-  font-size: 20px;
+  font-size: 12px;
 }
 
 /*#bibbase_header a {
@@ -8,8 +8,8 @@
 }*/
 
 #bibbase_header i {
-    width: 16px;
-    text-align: center;
+    width: 14px;
+    text-align: right;
     margin-right: 5px;
 }
 
@@ -24,7 +24,7 @@
     background-color: transparent;
     /*border-color: #23c6c8;*/
     font-style: italic;
-    font-size: 20pt;
+    font-size: 16pt;
     /*text-shadow: 0px 0px 3px #FFFFFF;*/
     border-radius: 4px 4px 4px 4px;
     -moz-border-radius: 4px 4px 4px 4px;
@@ -50,8 +50,6 @@ img.bibbase_icon {
     width: 20px;
     max-height: 16px;
     vertical-align: text-top;
-    
-
     filter: url("data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'><filter%20id='grayscale'><feColorMatrix%20type='matrix'%20values='0.3333%200.3333%200.3333%200%200%200.3333%200.3333%200.3333%200%200%200.3333%200.3333%200.3333%200%200%200%200%200%201%200'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
     filter: grayscale(100%); /* Current draft standard */
     -webkit-filter: grayscale(100%); /* New WebKit */
