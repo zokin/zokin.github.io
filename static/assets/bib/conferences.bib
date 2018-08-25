@@ -1,3 +1,28 @@
+@inproceedings{omnidepth2018eccv,
+  title={OmniDepth: Dense Depth Estimation for Indoors Spherical Panoramas.},
+  author={Zioulis, Nikolaos and Karakottas, Antonis and Zarpalas, Dimitrios and Daras, Petros},
+  booktitle={European Conference on Computer Vision},
+  year={2018},
+  publisher={Springer},
+  abstract={Recent work on depth estimation up to now has only focused on projective images ignoring 360 content which is now increasingly and more easily produced. We show that monocular depth estimation models trained on traditional images produce sub-optimal results on omnidirectional images, showcasing the need for training directly on 360 datasets, which however, are hard to acquire. In this work, we circumvent the challenges associated with acquiring high quality 360 datasets with ground truth depth annotations, by re-using recently released large scale 3D datasets and re-purposing them to 360 via rendering. This dataset, which is considerably larger than similar projective datasets, is publicly offered to the community to enable future research in this direction. We use this dataset to learn in an end-to-end fashion the task of depth estimation from 360 images. We show promising results in our synthesized data as well as in unseen realistic images.},
+  url_Pdf={https://arxiv.org/pdf/1807.09620.pdf},
+  url_Supplementary={http://vcl.iti.gr/vclNew/wp-content/uploads/2018/07/OmniDepth_paper_supp.pdf},
+  url_Website={http://vcl.iti.gr/360-dataset/},
+  url_Data={http://vcl.iti.gr/360-dataset/},
+}
+
+@inproceedings{360D2018eccvw,
+  title={360D: A dataset and baseline for dense depth estimation from 360 images},
+  author={Karakottas, Antonis and Zioulis, Nikolaos and Zarpalas, Dimitrios and Daras, Petros},
+  booktitle={European Conference on Computer Vision Workshops, 360 Perception and Interaction},
+  year={2018},
+  publisher={Springer},
+  abstract={We present a baseline for 360 dense depth estimation from a single spherical panorama. We circumvent the unavailability of coupled 360 color and depth image datasets by rendering a high quality 360 dataset from existing 3D datasets. We then train a CNN designed specifically for 360 content in a supervised manner, in order to predict a 360 depth map from a single omnidirectional image in equirectangular format. Quantitative and qualitative results show the need for training directly in 360 instead of relying on traditional 2D CNNs},
+  url_Pdf={http://vcl.iti.gr/vclNew/wp-content/uploads/2018/08/360D_ECCV2018_Workshop.pdf},
+  url_Website={http://vcl.iti.gr/360-dataset/},
+  url_Data={http://vcl.iti.gr/360-dataset/},
+}
+
 @inproceedings{doumanoglou2018bmsb,
   title={A System Architecture for Live Immersive 3D-Media Transcoding over 5G Networks},
   author={Doumanoglou, Alexandros and Zioulis, Nikolaos and Griffin, David and Serrano, Javier, and Khoa Phan, Truang and Zarpalas, Dimitrios and Jimenez, David and Alvarez, Federic and Rio, Miguel and Daras, Petros},
@@ -18,7 +43,20 @@
   title={Markerless Structure-based Multi-sensor Calibration for Free Viewpoint Video Capture},
   author={Papachristou, Alexandros and Zioulis, Nikolaos and Zarpalas, Dimitrios and Daras, Petros},
   booktitle={International Conference on Computer Graphics, Visualization and Computer Vision (WSCG)},  
-  year={2018}
+  year={2018},
+  abstract={Free-viewpoint capture technologies have recently started demonstrating impressive results. Being able to capture
+human performances in full 3D is a very promising technology for a variety of applications. However, the setup
+of the capturing infrastructure is usually expensive and requires trained personnel. In this work we focus on one
+practical aspect of setting up a free-viewpoint capturing system, the spatial alignment of the sensors. Our work aims
+at simplifying the external calibration process that typically requires significant human intervention and technical
+knowledge. Our method uses an easy to assemble structure and unlike similar works, does not rely on markers or
+features. Instead, we exploit the a-priori knowledge of the structure’s geometry to establish correspondences for
+the little-overlapping viewpoints typically found in free-viewpoint capture setups. These establish an initial sparse
+alignment that is then densely optimized. At the same time, our pipeline improves the robustness to assembly
+errors, allowing for non-technical users to calibrate multi-sensor setups. Our results showcase the feasibility of our
+approach that can make the tedious calibration process easier, and less error-prone.
+},
+  url_Pdf={https://www.iti.gr/iti/files/document/publications/S05-Markerless%20Structure-based%20Calibration.pdf},  
 }
 
 @inproceedings{zioulis2017improving,
