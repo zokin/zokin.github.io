@@ -21,16 +21,16 @@
     detail: School of Electrical Engineering, Aristotle University Thessaloniki
     i18n: # sdu_b
   desc:
-    detail: Bachelor Degree in Eletrical and Computer Engineering
+    detail: Bachelor & Masters Degree in Eletrical and Computer Engineering
     i18n: # sdu_b_desc
   #advisor:
     #detail: 
     #i18n: 
   date:
-    detail: Sep. 2002 - Jul. 2012
+    detail: Jul. 2012
     i18n: # sdu_b_date
   job:
-    detail: Undergraduate
+    detail: Bsc and Msc Student
     i18n: # sdu_b_job
   icon: fa-graduation-cap
 

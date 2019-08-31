@@ -25,13 +25,14 @@
   pdf: http://factory2fit.eu/
   desc: By developing solutions to make the factory environment more flexible and adaptable, the Factory2Fit project will bring increased worker motivation, satisfaction and productivity. It will help current and future workers to become knowledge workers in smart factories with fulfilling careers.
 
-- name: FORENSOR
-  i18n: forensor
-  gh_user:
-  repo:
-  img: /static/assets/img/landing/forensor_original.png
-  pdf: http://forensor-project.eu/
-  desc: FORENSOR aims to develop and validate a novel, ultra-low-power, miniaturised, low-cost, wireless, autonomous sensor (“FORENSOR”) for evidence gathering, able to operate for up to two months without infrastructure. FORENSOR will be manageable remotely, will preserve the availability and the integrity of the evidence collected, and comply with all legal and ethical standards, in particular those related to privacy and personal data protection.
+#- name: FORENSOR
+#  i18n: forensor
+#  gh_user:
+#  repo:
+#  img: /static/assets/img/landing/forensor_original.png
+#  pdf: http://forensor-project.eu/
+#  desc: FORENSOR aims to develop and validate a novel, ultra-low-power, miniaturised, low-cost, wireless, autonomous sensor (“FORENSOR”) for evidence gathering, able to operate for up to two months without infrastructure. FORENSOR will be manageable remotely, will preserve the availability and the integrity of the evidence collected, and comply with all legal and ethical standards, in particular those related to privacy and personal data protection.
+
 - name: RePlay
   i18n: replay
   gh_user:

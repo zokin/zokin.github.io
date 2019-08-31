@@ -4,7 +4,7 @@
     detail: Centre for Research and Technology Hellas, Information Technologies Institute, Visual Computing Lab
     i18n: # sdu_a
   desc:
-    detail: Working in various projects related to Computer Vision and Graphics technologies
+    detail: Working in various R&D projects involving Computer Vision, Computer Graphics and Machine Learning technologies
     i18n: # sdu_a_desc
   #advisor:
     #detail: Advised by Prof. Xueying Qin
@@ -13,7 +13,7 @@
     detail: Oct. 2013 - Now
     i18n: # sdu_a_date
   job:
-    detail: Research Assistant
+    detail: Research Associate
     i18n: # sdu_a_job
   icon: fa-suitcase
 

@@ -3,4 +3,4 @@
 label: Ability
 id : ls
 aspects: Caffe, Boost, OpenCV, ImGui, Std, Eigen, CUDA
-percentage: 85, 80, 90, 75, 95, 70, 75
+percentage: 90, 85, 95, 85, 95, 85, 95

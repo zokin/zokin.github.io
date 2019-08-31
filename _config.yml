@@ -2,8 +2,8 @@
 
 # Website settings
 title: Nick
-description: 'Nikolaos Zioulis, an electrical and computer science engineer.'
-keywords: Nikolaos Zioulis, Computer Vision, Graphics, Research & Development
+description: 'Nikolaos Zioulis, a computer vision, graphics and machine learning engineer.'
+keywords: Nikolaos Zioulis, Computer Vision, Graphics, Machine Learning, Research & Development
 baseurl:  
 url: http://zokin.github.io  # url should be 'http://<github_username>.github.io'
 #url: http://127.0.0.1:4000
@@ -18,11 +18,11 @@ author:  # change following line to your infomation.
   last_name: Zioulis  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar_pastel.png  # upload your avatar at directory and edit it.
   github_username: zokin  # Leave blank if you don't have now
-  linkedin_id:  # Leave blank if you don't have now
+  linkedin_id: nikolaos-zioulis # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: nzioulis@gmail.com  # Leave blank if you don't have now
-  cv: # /static/assets/pdf/landing/Bin_CV_en_cn.pdf  # A online CV can be printed as PDF, leave blank if you don't have now
+  cv: /static/assets/pdf/cv.pdf  # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     #- name: fa-film
@@ -52,7 +52,8 @@ author:  # change following line to your infomation.
       #color: '#098B92'
     #- name: fa-terminal
     #- name: icon-cplusplus
-  desc: I am an engineer working on the verge of computer graphics, computer vision and software engineering. My research interests and working experience are mainly in 3D computer vision and graphics, targeting innovative applications for augmented and virtual reality, including 3D human reconstruction and applied in tele-immersion / holoportation settings. Seeing the great potential of modern artificial intelligence, i am also indulging myself into machine (deep) learning techniques. # Describe yourself.
+  desc: A research engineer working at the intersection of computer graphics, computer (3D) vision and machine learning technologies with a focus on immersive / emerging media and live realistic tele-presence technologies spanning across the XR spectrum.
+  #I am an engineer working on the verge of computer graphics, computer vision and software engineering. My research interests and working experience are mainly in 3D computer vision and graphics, targeting innovative applications for augmented and virtual reality, including 3D human reconstruction and applied in tele-immersion / holoportation settings. Seeing the great potential of modern artificial intelligence, i am also indulging myself into machine (deep) learning techniques. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
