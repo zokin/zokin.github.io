@@ -1,13 +1,13 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: 5G-Media
-  i18n: 5gmedia
+- name: ATLANTIS
+  i18n: atlantis
   gh_user:
   repo:
-  img: /static/assets/img/landing/5G-media.png
-  pdf: http://www.5gmedia.eu
-  desc: The 5G-MEDIA project aims at innovating media-related applications by investigating how these applications and underlying 5G networks should be coupled and interwork to the benefit of both ensuring the applications allocate the resources they need to deliver high quality of experience, and so that the network is not overwhelmed by media traffic.
+  img: /static/assets/img/landing/atlantis_logo.png
+  pdf: http://atlantis-ar.eu/ 
+  desc: In many application areas (e.g. interior design, furniture retailing or renovation), communication with a customer or future user during the planning and design phase it is crucial for selecting the right products and configurations. AR has the potential to make the communication processes highly effective and provide a better experience for the customer. Current AR authoring solutions are quite complex and require manually creating scenes or rely on objects prepared with even more complex applications (e.g. CAD). ATLANTIS will fill this gap in authoring AR experiences by creating a faithful textured geometric (3D) representation from images of the real scene and identifying and segmenting objects in the scene and associating them with the 3D representation. The ATLANTIS authoring tool will enable the fusion of 3D CG elements with real scenes in a guided manner using artificial intelligence (AI) to facilitate more productive and effective content creation. This allows automatic alignment of inserted objects and automated layout generation, enabling the user to interact with different options without the need to manually author each of them. In addition, ATLANTIS will innovate beyond traditional AR authoring by complementing the capacity with Diminished Reality (DR) authoring capabilities, enabling the removal and replacement of real objects in the scene allowing to visualise also heavy changes to an environment. The innovations of ATLANTIS will be integrated in an existing solution for interior design and retailing, and validated with professionals and customers.
 
 - name: Hyper360
   i18n: h360
@@ -16,6 +16,14 @@
   img: /static/assets/img/landing/hyper360.png
   pdf: http://www.hyper360.eu/
   desc: Hyper360 is aimed at introducing a complete solution for the capture, production, enhancement, delivery and consumption of an innovative free viewpoint video (FVV) media format to the OTT media sectors. The convergence of omnidirectional (360°) and 3D content will extend current short productions of 360° videos with novel and powerful storytelling opportunities.
+
+- name: 5G-Media
+  i18n: 5gmedia
+  gh_user:
+  repo:
+  img: /static/assets/img/landing/5G-media.png
+  pdf: http://www.5gmedia.eu
+  desc: The 5G-MEDIA project aims at innovating media-related applications by investigating how these applications and underlying 5G networks should be coupled and interwork to the benefit of both ensuring the applications allocate the resources they need to deliver high quality of experience, and so that the network is not overwhelmed by media traffic.
 
 - name: Factory2Fit
   i18n: f2f
