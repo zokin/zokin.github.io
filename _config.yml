@@ -2,7 +2,7 @@
 
 # Website settings
 title: Nick
-description: 'Nikolaos Zioulis, a computer vision, graphics and machine learning engineer.'
+description: 'Nikolaos Zioulis, a Computer Vision, Graphics and Machine Learning Engineer.'
 keywords: Nikolaos Zioulis, Computer Vision, Graphics, Machine Learning, Research & Development
 baseurl:  
 url: http://zokin.github.io  # url should be 'http://<github_username>.github.io'
