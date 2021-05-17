@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SLAM | NZ</title>
+    <link>/tag/slam/</link>
+      <atom:link href="/tag/slam/index.xml" rel="self" type="application/rss+xml" />
+    <description>SLAM</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Nikolaos Zioulis</copyright><lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/sharing.png</url>
+      <title>SLAM</title>
+      <link>/tag/slam/</link>
+    </image>
+    
+    <item>
+      <title>Improving Camera Pose Estimation via Temporal EWA Surfel Splatting</title>
+      <link>/publication/ewa/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ewa/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

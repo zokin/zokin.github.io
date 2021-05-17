@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | NZ</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Nikolaos Zioulis</copyright><lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/sharing.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>DronePose: Photorealistic UAV-Assistant Dataset Synthesis for 3D Pose Estimation via a Smooth Silhouette Loss</title>
+      <link>/publication/dronepose/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dronepose/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/dronepose/gallery/Indoor_1.gif&#34; &gt;
+      &lt;img src=&#34;/publication/dronepose/gallery/Indoor_1_hu082ce2ec7164b1c2b4781c2e525ca35c_3193912_0x190_resize_lanczos.gif&#34; loading=&#34;lazy&#34; alt=&#34;Indoor_1.gif&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/dronepose/gallery/Indoor_2.gif&#34; &gt;
+      &lt;img src=&#34;/publication/dronepose/gallery/Indoor_2_hub42748a50991af0c38e4975a85e3fa5c_3542685_0x190_resize_lanczos.gif&#34; loading=&#34;lazy&#34; alt=&#34;Indoor_2.gif&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/dronepose/gallery/IoUvsSmoothLoss_v1.gif&#34; &gt;
+      &lt;img src=&#34;/publication/dronepose/gallery/IoUvsSmoothLoss_v1_hubd9dfc1dcc699b350b9a131cb5b5e6a2_1597090_0x190_resize_lanczos.gif&#34; loading=&#34;lazy&#34; alt=&#34;IoUvsSmoothLoss_v1.gif&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/dronepose/gallery/IoUvsSmoothLoss_v2.gif&#34; &gt;
+      &lt;img src=&#34;/publication/dronepose/gallery/IoUvsSmoothLoss_v2_hu95dde43168ffb17cfde9791601890a5d_5324562_0x190_resize_lanczos.gif&#34; loading=&#34;lazy&#34; alt=&#34;IoUvsSmoothLoss_v2.gif&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/dronepose/gallery/Outdoor_1.gif&#34; &gt;
+      &lt;img src=&#34;/publication/dronepose/gallery/Outdoor_1_hu29fbb15747a1bb1a7c231a8ea7d5cbb3_5369255_0x190_resize_lanczos.gif&#34; loading=&#34;lazy&#34; alt=&#34;Outdoor_1.gif&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/dronepose/gallery/Outdoor_2.gif&#34; &gt;
+      &lt;img src=&#34;/publication/dronepose/gallery/Outdoor_2_hu738b283d314004365d45099b9c05af5d_1479866_0x190_resize_lanczos.gif&#34; loading=&#34;lazy&#34; alt=&#34;Outdoor_2.gif&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XR360: A Toolkit for Mixed 360 and 3D Productions</title>
+      <link>/publication/xr360/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/xr360/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Lighting Environment Map Estimation from Spherical Panoramas</title>
+      <link>/publication/360l/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/360l/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Soft Procrustes for Markerless Volumetric Sensor Alignment</title>
+      <link>/publication/structurenet/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/structurenet/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-Supervised Deep Depth Denoising</title>
+      <link>/publication/ddd/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ddd/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>360° Surface Regression with a Hyper-Sphere Loss</title>
+      <link>/publication/360n/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/360n/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spherical View Synthesis for Self‑Supervised 360 Depth Estimation</title>
+      <link>/publication/svs/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/svs/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OmniDepth: Dense Depth Estimation for Indoors Spherical Panoramas</title>
+      <link>/publication/omnidepth/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/omnidepth/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Low‑cost, Flexible and Portable Volumetric Capturing System</title>
+      <link>/publication/volcap/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/volcap/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving Camera Pose Estimation via Temporal EWA Surfel Splatting</title>
+      <link>/publication/ewa/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ewa/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

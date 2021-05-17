@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | NZ</title>
+    <link>/event/</link>
+      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Nikolaos Zioulis</copyright><lastBuildDate>Mon, 03 May 2021 16:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/sharing.png</url>
+      <title>Talks</title>
+      <link>/event/</link>
+    </image>
+    
+    <item>
+      <title>Volumetric Video Tutorial</title>
+      <link>/talk/volumetric-video-tutorial/</link>
+      <pubDate>Mon, 03 May 2021 16:30:00 +0000</pubDate>
+      <guid>/talk/volumetric-video-tutorial/</guid>
+      <description>&lt;p&gt;In this tutorial, apart from presenting and documenting its operational details, we will offer insights for its various design choices, the challenges that  were encountered, and the lessons learned. These span both hardware and software topics like the selection of sensors, the balancing of processing power and  costs, the  design of the system, and even tripod mounts to ensure the portability of the setup. The presented &lt;a href=&#34;https://vcl3d.github.io/VolumetricCapture/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volumetric Capture&lt;/a&gt; system has been remotely and on-site deployed in various places around the globe as one of its central design goals apart from affordability was its portability and usability. The tutorial will also describe  how these two important components for the aforementioned aspects have been addressed, namely the spatial (i.e. &lt;a href=&#34;https://vcl3d.github.io/StructureNet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StructureNet&lt;/a&gt;) and temporal alignment of the sensors, in ways that are sensor-agnostic – allowing for hybrid-sensor deployments – and scalable, offering flexible capturing scenarios. However, as expected, these design choices come at a cost, and the limitations of this approach will also be presented and discussed. Finally, the tutorial will present the work that has been supported and enabled by this low-cost volumetric capture system, showcasing potential uses. More importantly, taking into account the ongoing data-driven revolution, such systems can be used for easily collecting volumetric datasets, with an example being &lt;a href=&#34;https://github.com/tofis/human4d_dataset&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HUMAN4D&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQ-honLv8yzxH3mUg0T7MgrG-VXgMuOewrxJDTPWDGrKPis2q6KNHGysdj2I9qejApmmLcm33yQ77C9/embed?start=true&amp;amp;loop=true&amp;amp;delayms=5000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The ATLANTIS Project Technical Challenges</title>
+      <link>/talk/the-atlantis-project-technical-challenges/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/the-atlantis-project-technical-challenges/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring serverless service deployment in 5G for next generation media applications</title>
+      <link>/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/</guid>
+      <description>&lt;p&gt;The &lt;em&gt;slides&lt;/em&gt; are available &lt;a href=&#34;/uploads/5g_summit_slides.pdf&#34; target=&#34;_blank&#34;&gt;here. &lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured1.jpg&#34; &gt;
+      &lt;img src=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured1_hu2fd84937da5bc73ec7bedf9933d9539c_79621_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;featured1.jpg&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured2.jpg&#34; &gt;
+      &lt;img src=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured2_hu44d731d353766f1822726541a9303647_80572_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;featured2.jpg&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured3.jpg&#34; &gt;
+      &lt;img src=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured3_hu798633669d02a067734a09b0f2c54a3c_79417_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;featured3.jpg&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

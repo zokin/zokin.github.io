@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5G | NZ</title>
+    <link>/tag/5g/</link>
+      <atom:link href="/tag/5g/index.xml" rel="self" type="application/rss+xml" />
+    <description>5G</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Nikolaos Zioulis</copyright><lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/sharing.png</url>
+      <title>5G</title>
+      <link>/tag/5g/</link>
+    </image>
+    
+    <item>
+      <title>Exploring serverless service deployment in 5G for next generation media applications</title>
+      <link>/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/</guid>
+      <description>&lt;p&gt;The &lt;em&gt;slides&lt;/em&gt; are available &lt;a href=&#34;/uploads/5g_summit_slides.pdf&#34; target=&#34;_blank&#34;&gt;here. &lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured1.jpg&#34; &gt;
+      &lt;img src=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured1_hu2fd84937da5bc73ec7bedf9933d9539c_79621_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;featured1.jpg&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured2.jpg&#34; &gt;
+      &lt;img src=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured2_hu44d731d353766f1822726541a9303647_80572_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;featured2.jpg&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured3.jpg&#34; &gt;
+      &lt;img src=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured3_hu798633669d02a067734a09b0f2c54a3c_79417_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;featured3.jpg&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5G-Media</title>
+      <link>/project/5gmedia/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/project/5gmedia/</guid>
+      <description>&lt;p&gt;5G-MEDIA aims at innovating media-related applications by investigating how these applications and the underlying 5G network should be coupled and interwork to the benefit of both. In this respect, 5G-MEDIA addresses the objectives of 1) capitalizing and properly extending the valuable outcomes of the running 5G PPP projects to offer an agile programming, verification and orchestration platform for services, and 2) developing network functions and applications to be demonstrated in large-scale deployments, based on 3 well-defined use cases (in the areas of immersive media and VR, smart production and user-generated content, and UHD over CDN) of diverse requirements and particular interest for the consortium partners.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

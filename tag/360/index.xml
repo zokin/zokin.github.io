@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>360 | NZ</title>
+    <link>/tag/360/</link>
+      <atom:link href="/tag/360/index.xml" rel="self" type="application/rss+xml" />
+    <description>360</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Nikolaos Zioulis</copyright><lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/sharing.png</url>
+      <title>360</title>
+      <link>/tag/360/</link>
+    </image>
+    
+    <item>
+      <title>Single‑shot cuboids: Geodesics‑based end‑to‑end Manhattan aligned layout estimationfrom spherical panoramas</title>
+      <link>/publication/ssc/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/ssc/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XR360: A Toolkit for Mixed 360 and 3D Productions</title>
+      <link>/publication/xr360/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/xr360/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Lighting Environment Map Estimation from Spherical Panoramas</title>
+      <link>/publication/360l/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/360l/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ATLANTIS</title>
+      <link>/project/atlantis/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/atlantis/</guid>
+      <description>&lt;p&gt;In many application areas (e.g. interior design, furniture retailing or renovation), communication with a customer or future user during the planning and design phase it is crucial for selecting the right products and configurations. AR has the potential to make the communication processes highly effective and provide a better experience for the customer. Current AR authoring solutions are quite complex and require manually creating scenes or rely on objects prepared with even more complex applications (e.g. CAD). ATLANTIS will fill this gap in authoring AR experiences by creating a faithful textured geometric (3D) representation from images of the real scene and identifying and segmenting objects in the scene and associating them with the 3D representation.&lt;/p&gt;
+&lt;p&gt;The ATLANTIS authoring tool will enable the fusion of 3D CG elements with real scenes in a guided manner using artificial intelligence (AI) to facilitate more productive and effective content creation. This allows automatic alignment of inserted objects and automated layout generation, enabling the user to interact with different options without the need to manually author each of them. In addition, ATLANTIS will innovate beyond traditional AR authoring by complementing the capacity with Diminished Reality (DR) authoring capabilities, enabling the removal and replacement of real objects in the scene allowing to visualise also heavy changes to an environment. The innovations of ATLANTIS will be integrated in an existing solution for interior design and retailing, and validated with professionals and customers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>360° Surface Regression with a Hyper-Sphere Loss</title>
+      <link>/publication/360n/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/360n/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spherical View Synthesis for Self‑Supervised 360 Depth Estimation</title>
+      <link>/publication/svs/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/svs/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OmniDepth: Dense Depth Estimation for Indoors Spherical Panoramas</title>
+      <link>/publication/omnidepth/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/omnidepth/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hyper360</title>
+      <link>/project/hyper360/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/project/hyper360/</guid>
+      <description>&lt;p&gt;Hyper360 aims at introducing a complete solution for the capture, production, enhancement, delivery and consumption of an innovative free viewpoint video (FVV) media format to the OTT media sectors, through careful validation and large demonstrations.
+Envisioning increasingly immersive experiences, the convergence of omnidirectional (360°) and 3D content will extend current short productions of 360° videos  with novel and powerful storytelling opportunities. Furthermore, leveraging on the – inherent to the selected format – capabilities, the broadband delivered content will be offered with additional audio-visual functionalities, bringing together more types of digital content, and adapted according to the viewer’s preferences offering unique experiences upon content consumption.&lt;/p&gt;
+&lt;p&gt;With novel content through the fusion of modern formats (360° and 3D), the European media sector can gain an edge over global competition, reduce the global players’ market share and even penetrate global markets that have been unreachable until now, both through content and service provisions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

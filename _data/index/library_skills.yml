@@ -1,6 +1,0 @@
-# knowledge section data
-
-label: Ability
-id : ls
-aspects: Caffe, Boost, OpenCV, ImGui, Std, Eigen, CUDA
-percentage: 90, 85, 95, 85, 95, 85, 95

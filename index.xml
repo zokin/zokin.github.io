@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NZ</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>NZ</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Nikolaos Zioulis</copyright><lastBuildDate>Mon, 03 May 2021 16:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/sharing.png</url>
+      <title>NZ</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Volumetric Video Tutorial</title>
+      <link>/talk/volumetric-video-tutorial/</link>
+      <pubDate>Mon, 03 May 2021 16:30:00 +0000</pubDate>
+      <guid>/talk/volumetric-video-tutorial/</guid>
+      <description>&lt;p&gt;In this tutorial, apart from presenting and documenting its operational details, we will offer insights for its various design choices, the challenges that  were encountered, and the lessons learned. These span both hardware and software topics like the selection of sensors, the balancing of processing power and  costs, the  design of the system, and even tripod mounts to ensure the portability of the setup. The presented &lt;a href=&#34;https://vcl3d.github.io/VolumetricCapture/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volumetric Capture&lt;/a&gt; system has been remotely and on-site deployed in various places around the globe as one of its central design goals apart from affordability was its portability and usability. The tutorial will also describe  how these two important components for the aforementioned aspects have been addressed, namely the spatial (i.e. &lt;a href=&#34;https://vcl3d.github.io/StructureNet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StructureNet&lt;/a&gt;) and temporal alignment of the sensors, in ways that are sensor-agnostic – allowing for hybrid-sensor deployments – and scalable, offering flexible capturing scenarios. However, as expected, these design choices come at a cost, and the limitations of this approach will also be presented and discussed. Finally, the tutorial will present the work that has been supported and enabled by this low-cost volumetric capture system, showcasing potential uses. More importantly, taking into account the ongoing data-driven revolution, such systems can be used for easily collecting volumetric datasets, with an example being &lt;a href=&#34;https://github.com/tofis/human4d_dataset&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HUMAN4D&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQ-honLv8yzxH3mUg0T7MgrG-VXgMuOewrxJDTPWDGrKPis2q6KNHGysdj2I9qejApmmLcm33yQ77C9/embed?start=true&amp;amp;loop=true&amp;amp;delayms=5000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single‑shot cuboids: Geodesics‑based end‑to‑end Manhattan aligned layout estimationfrom spherical panoramas</title>
+      <link>/publication/ssc/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/ssc/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DronePose: Photorealistic UAV-Assistant Dataset Synthesis for 3D Pose Estimation via a Smooth Silhouette Loss</title>
+      <link>/publication/dronepose/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dronepose/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/dronepose/gallery/Indoor_1.gif&#34; &gt;
+      &lt;img src=&#34;/publication/dronepose/gallery/Indoor_1_hu082ce2ec7164b1c2b4781c2e525ca35c_3193912_0x190_resize_lanczos.gif&#34; loading=&#34;lazy&#34; alt=&#34;Indoor_1.gif&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/dronepose/gallery/Indoor_2.gif&#34; &gt;
+      &lt;img src=&#34;/publication/dronepose/gallery/Indoor_2_hub42748a50991af0c38e4975a85e3fa5c_3542685_0x190_resize_lanczos.gif&#34; loading=&#34;lazy&#34; alt=&#34;Indoor_2.gif&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/dronepose/gallery/IoUvsSmoothLoss_v1.gif&#34; &gt;
+      &lt;img src=&#34;/publication/dronepose/gallery/IoUvsSmoothLoss_v1_hubd9dfc1dcc699b350b9a131cb5b5e6a2_1597090_0x190_resize_lanczos.gif&#34; loading=&#34;lazy&#34; alt=&#34;IoUvsSmoothLoss_v1.gif&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/dronepose/gallery/IoUvsSmoothLoss_v2.gif&#34; &gt;
+      &lt;img src=&#34;/publication/dronepose/gallery/IoUvsSmoothLoss_v2_hu95dde43168ffb17cfde9791601890a5d_5324562_0x190_resize_lanczos.gif&#34; loading=&#34;lazy&#34; alt=&#34;IoUvsSmoothLoss_v2.gif&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/dronepose/gallery/Outdoor_1.gif&#34; &gt;
+      &lt;img src=&#34;/publication/dronepose/gallery/Outdoor_1_hu29fbb15747a1bb1a7c231a8ea7d5cbb3_5369255_0x190_resize_lanczos.gif&#34; loading=&#34;lazy&#34; alt=&#34;Outdoor_1.gif&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/dronepose/gallery/Outdoor_2.gif&#34; &gt;
+      &lt;img src=&#34;/publication/dronepose/gallery/Outdoor_2_hu738b283d314004365d45099b9c05af5d_1479866_0x190_resize_lanczos.gif&#34; loading=&#34;lazy&#34; alt=&#34;Outdoor_2.gif&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The ATLANTIS Project Technical Challenges</title>
+      <link>/talk/the-atlantis-project-technical-challenges/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/the-atlantis-project-technical-challenges/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HUMAN4D: A Human-Centric Multimodal Dataset for Motions and Immersive Media</title>
+      <link>/publication/human4d/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/human4d/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XR360: A Toolkit for Mixed 360 and 3D Productions</title>
+      <link>/publication/xr360/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/xr360/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Lighting Environment Map Estimation from Spherical Panoramas</title>
+      <link>/publication/360l/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/360l/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ATLANTIS</title>
+      <link>/project/atlantis/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/atlantis/</guid>
+      <description>&lt;p&gt;In many application areas (e.g. interior design, furniture retailing or renovation), communication with a customer or future user during the planning and design phase it is crucial for selecting the right products and configurations. AR has the potential to make the communication processes highly effective and provide a better experience for the customer. Current AR authoring solutions are quite complex and require manually creating scenes or rely on objects prepared with even more complex applications (e.g. CAD). ATLANTIS will fill this gap in authoring AR experiences by creating a faithful textured geometric (3D) representation from images of the real scene and identifying and segmenting objects in the scene and associating them with the 3D representation.&lt;/p&gt;
+&lt;p&gt;The ATLANTIS authoring tool will enable the fusion of 3D CG elements with real scenes in a guided manner using artificial intelligence (AI) to facilitate more productive and effective content creation. This allows automatic alignment of inserted objects and automated layout generation, enabling the user to interact with different options without the need to manually author each of them. In addition, ATLANTIS will innovate beyond traditional AR authoring by complementing the capacity with Diminished Reality (DR) authoring capabilities, enabling the removal and replacement of real objects in the scene allowing to visualise also heavy changes to an environment. The innovations of ATLANTIS will be integrated in an existing solution for interior design and retailing, and validated with professionals and customers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Soft Procrustes for Markerless Volumetric Sensor Alignment</title>
+      <link>/publication/structurenet/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/structurenet/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-Supervised Deep Depth Denoising</title>
+      <link>/publication/ddd/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ddd/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>360° Surface Regression with a Hyper-Sphere Loss</title>
+      <link>/publication/360n/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/360n/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spherical View Synthesis for Self‑Supervised 360 Depth Estimation</title>
+      <link>/publication/svs/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/svs/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring serverless service deployment in 5G for next generation media applications</title>
+      <link>/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/</guid>
+      <description>&lt;p&gt;The &lt;em&gt;slides&lt;/em&gt; are available &lt;a href=&#34;/uploads/5g_summit_slides.pdf&#34; target=&#34;_blank&#34;&gt;here. &lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured1.jpg&#34; &gt;
+      &lt;img src=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured1_hu2fd84937da5bc73ec7bedf9933d9539c_79621_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;featured1.jpg&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured2.jpg&#34; &gt;
+      &lt;img src=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured2_hu44d731d353766f1822726541a9303647_80572_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;featured2.jpg&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured3.jpg&#34; &gt;
+      &lt;img src=&#34;/talk/exploring-serverless-service-deployment-in-5g-for-next-generation-media-applications/gallery/featured3_hu798633669d02a067734a09b0f2c54a3c_79417_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;featured3.jpg&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OmniDepth: Dense Depth Estimation for Indoors Spherical Panoramas</title>
+      <link>/publication/omnidepth/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/omnidepth/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast deformable model-based human performance capture and FVV using consumer-grade RGB-D sensors</title>
+      <link>/publication/template/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/template/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/template/gallery/bottom.png&#34; &gt;
+      &lt;img src=&#34;/publication/template/gallery/bottom_hu7c5d44bfc75cc1a97932628b3b33cfff_94970_0x190_resize_lanczos_2.png&#34; loading=&#34;lazy&#34; alt=&#34;bottom.png&#34; width=&#34;819&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/publication/template/gallery/top.png&#34; &gt;
+      &lt;img src=&#34;/publication/template/gallery/top_hu49ba637e302c09a55b16f819f3578225_120122_0x190_resize_lanczos_2.png&#34; loading=&#34;lazy&#34; alt=&#34;top.png&#34; width=&#34;701&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Low‑cost, Flexible and Portable Volumetric Capturing System</title>
+      <link>/publication/volcap/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/volcap/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving Camera Pose Estimation via Temporal EWA Surfel Splatting</title>
+      <link>/publication/ewa/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ewa/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hyper360</title>
+      <link>/project/hyper360/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/project/hyper360/</guid>
+      <description>&lt;p&gt;Hyper360 aims at introducing a complete solution for the capture, production, enhancement, delivery and consumption of an innovative free viewpoint video (FVV) media format to the OTT media sectors, through careful validation and large demonstrations.
+Envisioning increasingly immersive experiences, the convergence of omnidirectional (360°) and 3D content will extend current short productions of 360° videos  with novel and powerful storytelling opportunities. Furthermore, leveraging on the – inherent to the selected format – capabilities, the broadband delivered content will be offered with additional audio-visual functionalities, bringing together more types of digital content, and adapted according to the viewer’s preferences offering unique experiences upon content consumption.&lt;/p&gt;
+&lt;p&gt;With novel content through the fusion of modern formats (360° and 3D), the European media sector can gain an edge over global competition, reduce the global players’ market share and even penetrate global markets that have been unreachable until now, both through content and service provisions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5G-Media</title>
+      <link>/project/5gmedia/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/project/5gmedia/</guid>
+      <description>&lt;p&gt;5G-MEDIA aims at innovating media-related applications by investigating how these applications and the underlying 5G network should be coupled and interwork to the benefit of both. In this respect, 5G-MEDIA addresses the objectives of 1) capitalizing and properly extending the valuable outcomes of the running 5G PPP projects to offer an agile programming, verification and orchestration platform for services, and 2) developing network functions and applications to be demonstrated in large-scale deployments, based on 3 well-defined use cases (in the areas of immersive media and VR, smart production and user-generated content, and UHD over CDN) of diverse requirements and particular interest for the consortium partners.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Integrated Platform for Live 3D Human Reconstruction and Motion Capturing</title>
+      <link>/publication/integrated/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/integrated/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
