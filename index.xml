@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>NZ</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Nikolaos Zioulis</copyright><lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Nikolaos Zioulis</copyright><lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/sharing.png</url>
       <title>NZ</title>
@@ -13,9 +13,55 @@
     </image>
     
     <item>
+      <title>Pano3D: A Holistic Benchmark and a Solid Baseline for 360 Depth Estimation</title>
+      <link>/publication/pano3d/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pano3d/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PanoDR: Spherical Panorama Diminished Reality for Indoor Scenes</title>
+      <link>/publication/panodr/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/panodr/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;&lt;strong&gt;Cite&lt;/strong&gt;&lt;/em&gt; button above to copy/download publication metadata (*.bib).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). 
+--&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Zeroth-Order Optimizer Benchmarking for 3D PerformanceCapture</title>
       <link>/publication/nevergrad/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <guid>/publication/nevergrad/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
