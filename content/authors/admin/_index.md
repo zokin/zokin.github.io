@@ -1,12 +1,12 @@
 ---
 title: Nikolaos Zioulis
-role: Computer Vision, Graphics & Machine Learning R&D Engineer
+role: Computer Vision, Graphics & Machine Learning Engineer & Scientist
 avatar_filename: avatar_pastel.png
 bio: My research interests lie at the intersection of computer vision, computer graphics and modern data-driven approaches.
 interests:
   - Computer Vision
-  - ComputerGraphics
-  - MachineLearning
+  - Computer Graphics
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,9 +38,12 @@ organizations: []
   #   url: https://vcl.iti.gr
 education:
   courses:
-    - course: Electrical and Computer Engineer
+    - course: PhD in Computer Vision & Machine Learning
+      institution: Universidad Politecnica de Madrid
+      year: "2023"
+    - course: BSc, MSc, Electrical and Computer Engineer
       institution: Aristotle University of Thessaloniki, School of Electrical and Computer Engineering
-      year: ""
+      year: "2012"
 email: "nzioulis@gmail.com"
 superuser: true
 highlight_name: true
