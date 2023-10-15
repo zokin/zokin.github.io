@@ -13,7 +13,7 @@ experience:
     description: |-2
         Responsibilities include:
         
-        * Motion Capture Tech
+        * Motion Capture Innovation
         * Principal Scientist
         * Technical Overview        
         * Intellectual Property         

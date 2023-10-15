@@ -31,6 +31,8 @@ content:
     tag: AI
   - name: Volumetric
     tag: Volumetric
+  - name: Motion Capture
+    tag: Motion Capture
   - name: 360
     tag: 360
   - name: 5G
