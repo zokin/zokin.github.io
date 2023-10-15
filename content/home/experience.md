@@ -3,6 +3,20 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
+  - title: Chief Technology Officer (CTO)
+    company: Moverse P.C.
+    company_url: "https://www.moverse.ai"
+    company_logo: 
+    location: Thessaloniki, Greece
+    date_start: 2023-02-01
+    # date_end: 2022-02-28
+    description: |-2
+        Responsibilities include:
+        
+        * Motion Capture Tech
+        * Principal Scientist
+        * Technical Overview        
+        * Intellectual Property         
   - title: R&D & Technology Consultant
     company: Klothed Technologies Inc.
     company_url: "https://getklothed.com"
