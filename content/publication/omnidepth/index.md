@@ -25,7 +25,7 @@ doi: "10.1007/978-3-030-01231-1_28"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2018 European Conference on Computer Vision (ECCV)*

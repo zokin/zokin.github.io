@@ -26,7 +26,7 @@ doi: "10.1007/978-3-030-66096-3_44"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2020 European Conference on Computer Vision Workshops (ECCVW)*
@@ -101,7 +101,6 @@ projects:
 Click the ***Cite*** button above to copy/download publication metadata (*.bib).
 {{% /callout %}}
 
-{{< gallery album="dronepose-gallery" >}}
 
 <!-- 
 {{% callout note %}}
