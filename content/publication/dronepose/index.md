@@ -44,35 +44,35 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Website
+- name: Project
   url: https://vcl3d.github.io/DronePose
-- icon:
-  icon_pack: fab
-  name: PDF
-  url: https://arxiv.org/pdf/2008.08823.pdf
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/VCL3D/DronePose
-- icon:
-  icon_pack: fab
-  name: Data
-  url: https://vcl3d.github.io/UAVA/
+# - icon:
+#   icon_pack: fab
+#   name: PDF
+#   url: https://arxiv.org/pdf/2008.08823.pdf
+# - icon: github
+#   icon_pack: fab
+#   name: Code
+#   url: https://github.com/VCL3D/DronePose
+# - icon:
+#   icon_pack: fab
+#   name: Data
+#   url: https://vcl3d.github.io/UAVA/
 - name: Supplementary
   url: https://static-content.springer.com/esm/chp%3A10.1007%2F978-3-030-66096-3_44/MediaObjects/509073_1_En_44_MOESM1_ESM.zip
-- icon:
-  icon_pack: fab
-  name: Video
-  url: https://youtu.be/dSbeu238I-I
+# - icon:
+#   icon_pack: fab
+#   name: Video
+#   url: https://youtu.be/dSbeu238I-I
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: 'https://arxiv.org/pdf/2008.08823.pdf'
+url_code: 'https://github.com/VCL3D/DronePose'
+url_dataset: 'https://vcl3d.github.io/UAVA/'
 url_poster: ''
-url_project: ''
+# url_project: 'https://vcl3d.github.io/DronePose'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/dSbeu238I-I'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

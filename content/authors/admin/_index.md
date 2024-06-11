@@ -115,20 +115,52 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 
     items:
       - name: Python
         description: ''
         percent: 100
         icon: python
-      - name: C/C++
+      - name: C/C++11/14/17/20
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: devicon/cplusplus
       - name: PyTorch
         description: ''
         percent: 100
         icon: custom/pytorch # circle-stack
+      - name: Technical Writing
+        description: ''
+        percent: 85
+        icon: devicon/latex
+      - name: Git
+        description: ''
+        percent: 90
+        icon: devicon/git
+  - name: 
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: CUDA
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: OpenGL/GLSL
+        description: ''
+        percent: 75
+        icon: devicon/opengl
+      - name: Blender
+        description: ''
+        percent: 70
+        icon: devicon/blender
+      - name: C#
+        description: ''
+        percent: 80
+        icon: devicon/csharp      
+      - name: Docker
+        description: ''
+        percent: 65
+        icon: devicon/docker
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'

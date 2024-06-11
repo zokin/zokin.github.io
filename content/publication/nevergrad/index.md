@@ -1,5 +1,5 @@
 ---
-title: "Zeroth-Order Optimizer Benchmarking for 3D PerformanceCapture"
+title: "Zeroth-Order Optimizer Benchmarking for 3D Performance Capture"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -49,22 +49,22 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Website
+- name: Project
   url: https://vcl3d.github.io/nevergrad/
-# - icon:
+# # - icon:
+# #   icon_pack: fab
+# #   name: PDF
+# #   url: 
+# - icon: github
 #   icon_pack: fab
-#   name: PDF
-#   url: 
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/vcl3d/nevergrad/tree/perfcap_benchmark
+#   name: Code
+#   url: https://github.com/vcl3d/nevergrad/tree/perfcap_benchmark
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://drive.google.com/file/d/1AYvtXrGptjfaEj2Pu3mpm_1GsAAQPMv1/view'
+url_code: 'https://github.com/vcl3d/nevergrad/tree/perfcap_benchmark'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+# url_project: 'https://vcl3d.github.io/nevergrad/'
 url_slides: ''
 url_source: ''
 url_video: ''

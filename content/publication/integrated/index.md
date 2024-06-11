@@ -30,7 +30,7 @@ doi: "10.1109/TCSVT.2016.2576922"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2017, IEEE Transactions on Circuits and Systems for Video Technology*
@@ -48,24 +48,24 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Website
+- name: Project
   url: https://vcl.iti.gr/dataset/3d-reconstruction-and-skeleton-based-motion-tracking/
-- icon:
-  icon_pack: fab
-  name: PDF
-  url: https://arxiv.org/ftp/arxiv/papers/1712/1712.03084.pdf
-- icon:
-  icon_pack: fab
-  name: Data
-  url: https://vcl.iti.gr/dataset/datasets-of-multiple-kinect2-rgb-d-streams-and-skeleton-tracking/
+# - icon:
+#   icon_pack: fab
+#   name: PDF
+#   url: https://arxiv.org/ftp/arxiv/papers/1712/1712.03084.pdf
+# - icon:
+#   icon_pack: fab
+#   name: Data
+#   url: https://vcl.iti.gr/dataset/datasets-of-multiple-kinect2-rgb-d-streams-and-skeleton-tracking/
 - name: Supplementary
   url: https://vcl.iti.gr/dataset/3d-reconstruction-and-skeleton-based-motion-tracking/
   
-url_pdf: ''
+url_pdf: 'https://arxiv.org/ftp/arxiv/papers/1712/1712.03084.pdf'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://vcl.iti.gr/dataset/datasets-of-multiple-kinect2-rgb-d-streams-and-skeleton-tracking/'
 url_poster: ''
-url_project: ''
+# url_project: 'https://vcl.iti.gr/dataset/3d-reconstruction-and-skeleton-based-motion-tracking/'
 url_slides: ''
 url_source: ''
 url_video: ''

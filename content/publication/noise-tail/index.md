@@ -39,28 +39,28 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Website
+- name: Project
   url: https://moverseai.github.io/noise-tail/
-- icon:
-  icon_pack: fab
-  name: PDF
-  url: https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Albanis_Noise-in_Bias-out_Balanced_and_Real-Time_MoCap_Solving_ICCVW_2023_paper.pdf
+# - icon:
+#   icon_pack: fab
+#   name: PDF
+#   url: https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Albanis_Noise-in_Bias-out_Balanced_and_Real-Time_MoCap_Solving_ICCVW_2023_paper.pdf
 - name: Supplementary
   url: https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/supplemental/Albanis_Noise-in_Bias-out_Balanced_ICCVW_2023_supplemental.zip
-- icon:
-  icon_pack: fab
-  name: Video
-  url: https://youtu.be/62ncJL4D0Cw
+# - icon:
+#   icon_pack: fab
+#   name: Video
+#   url: https://youtu.be/62ncJL4D0Cw
 
 
-url_pdf: ''
+url_pdf: 'https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Albanis_Noise-in_Bias-out_Balanced_and_Real-Time_MoCap_Solving_ICCVW_2023_paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+# url_project: 'https://moverseai.github.io/noise-tail/'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/62ncJL4D0Cw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

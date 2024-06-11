@@ -27,7 +27,7 @@ doi: "10.1016/j.patcog.2018.02.013"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Pattern Recognition, Elsevier*
@@ -45,31 +45,31 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Website
+- name: Project
   url: http://vcl.iti.gr/performancecapture/
-- icon:
-  icon_pack: fab
-  name: PDF
-  url: https://www.iti.gr/iti/files/document/publications/RGB-D_09-03-2018.pdf
-- icon:
-  icon_pack: fab
-  name: Data
-  url: http://vcl.iti.gr/dataset/dataset-of-multiple-kinect2-rgb-d-streams/
+# - icon:
+#   icon_pack: fab
+#   name: PDF
+#   url: https://www.iti.gr/iti/files/document/publications/RGB-D_09-03-2018.pdf
+# - icon:
+#   icon_pack: fab
+#   name: Data
+#   url: http://vcl.iti.gr/dataset/dataset-of-multiple-kinect2-rgb-d-streams/
 - name: Supplementary
   url: https://ars.els-cdn.com/content/image/1-s2.0-S0031320318300657-mmc1.pdf
-- icon:
-  icon_pack: fab
-  name: Video
-  url: https://youtu.be/RHViHg75kh8
+# - icon:
+#   icon_pack: fab
+#   name: Video
+#   url: https://youtu.be/RHViHg75kh8
 
-url_pdf: ''
+url_pdf: 'https://www.iti.gr/iti/files/document/publications/RGB-D_09-03-2018.pdf'
 url_code: ''
-url_dataset: ''
+url_dataset: 'http://vcl.iti.gr/dataset/dataset-of-multiple-kinect2-rgb-d-streams/'
 url_poster: ''
-url_project: ''
+# url_project: 'http://vcl.iti.gr/performancecapture/'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/RHViHg75kh8'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

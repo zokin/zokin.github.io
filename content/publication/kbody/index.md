@@ -36,28 +36,28 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Website
-  url: https://klothed.github.io/KBody/
+- name: Project
+  url: https://zokin.github.io/KBody/
 - icon:
   icon_pack: fab
-  name: PDF
-  url: https://arxiv.org/pdf/2304.11542.pdf
-# - name: Supplementary
-#   url: https://openaccess.thecvf.com/content/CVPR2021W/OmniCV/supplemental/Albanis_Pano3D_A_Holistic_CVPRW_2021_supplemental.pdf 
+  name: Short Paper
+  url: https://openaccess.thecvf.com/content/CVPR2023W/CVFAD/papers/Zioulis_KBody_Balanced_Monocular_Whole-Body_Estimation_CVPRW_2023_paper.pdf
+- name: Supplementary
+  url: https://openaccess.thecvf.com/content/CVPR2023W/RHOBIN/supplemental/Zioulis_KBody_Towards_General_CVPRW_2023_supplemental.pdf
 # - icon:
   # icon_pack: fab
   # name: Video
   # url: https://youtu.be/xa7Fl2mD4CA?t=9020 
 
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2304.11542.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+# url_project: 'https://zokin.github.io/KBody/'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=gC8HZa8bCLo&t=1s&ab_channel=NikosZioulis'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

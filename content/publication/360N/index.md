@@ -46,26 +46,26 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Website
+- name: Project
   url: https://vcl3d.github.io/HyperSphereSurfaceRegression/
-- icon:
-  icon_pack: fab
-  name: PDF
-  url: https://arxiv.org/pdf/1909.07043.pdf
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/VCL3D/HyperSphereSurfaceRegression
-- icon:
-  icon_pack: fab
-  name: Data
-  url: https://vcl3d.github.io/3D60/
+# - icon:
+#   icon_pack: fab
+#   name: PDF
+#   url: https://arxiv.org/pdf/1909.07043.pdf
+# - icon: github
+#   icon_pack: fab
+#   name: Code
+#   url: https://github.com/VCL3D/HyperSphereSurfaceRegression
+# - icon:
+#   icon_pack: fab
+#   name: Data
+#   url: https://vcl3d.github.io/3D60/
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: 'https://arxiv.org/pdf/1909.07043.pdf'
+url_code: 'https://github.com/VCL3D/HyperSphereSurfaceRegression'
+url_dataset: 'https://vcl3d.github.io/3D60/'
 url_poster: ''
-url_project: ''
+# url_project: 'https://vcl3d.github.io/HyperSphereSurfaceRegression/'
 url_slides: ''
 url_source: ''
 url_video: ''

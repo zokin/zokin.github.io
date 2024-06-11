@@ -49,22 +49,22 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Website
+- name: Project
   url: https://vcl3d.github.io/VolumetricCapture/
-- icon:
-  icon_pack: fab
-  name: PDF
-  url: https://arxiv.org/pdf/1909.01207.pdf
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/VCL3D/VolumetricCapture/
+# - icon:
+#   icon_pack: fab
+#   name: PDF
+#   url: https://arxiv.org/pdf/1909.01207.pdf
+# - icon: github
+#   icon_pack: fab
+#   name: Code
+#   url: https://github.com/VCL3D/VolumetricCapture/
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/1909.01207.pdf'
+url_code: 'https://github.com/VCL3D/VolumetricCapture/'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+# url_project: 'https://vcl3d.github.io/VolumetricCapture/'
 url_slides: ''
 url_source: ''
 url_video: ''

@@ -25,7 +25,7 @@ doi: "10.1016/j.imavis.2021.104160"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Image and Vision Computing, Elsevier*
@@ -43,24 +43,24 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Website
+- name: Project
   url: https://vcl3d.github.io/SingleShotCuboids/
-- icon:
-  icon_pack: fab
-  name: PDF
-  url: https://arxiv.org/pdf/2102.03939.pdf
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/VCL3D/SingleShotCuboids
+# - icon:
+#   icon_pack: fab
+#   name: PDF
+#   url: https://arxiv.org/pdf/2102.03939.pdf
+# - icon: github
+#   icon_pack: fab
+#   name: Code
+#   url: https://github.com/VCL3D/SingleShotCuboids
 - name: Supplementary
   url: https://ars.els-cdn.com/content/image/1-s2.0-S0262885621000652-mmc1.pdf
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2102.03939.pdf'
+url_code: 'https://github.com/VCL3D/SingleShotCuboids'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+# url_project: 'https://vcl3d.github.io/SingleShotCuboids/'
 url_slides: ''
 url_source: ''
 url_video: ''

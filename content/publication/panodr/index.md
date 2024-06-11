@@ -44,30 +44,30 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Website
+- name: Project
   url: https://vcl3d.github.io/PanoDR/
-- icon:
-  icon_pack: fab
-  name: PDF
-  url: https://openaccess.thecvf.com/content/CVPR2021W/OmniCV/papers/Gkitsas_PanoDR_Spherical_Panorama_Diminished_Reality_for_Indoor_Scenes_CVPRW_2021_paper.pdf 
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/VCL3D/PanoDR
-- icon:
-  icon_pack: fab
-  name: Video
-  url: https://www.youtube.com/watch?v=xa7Fl2mD4CA&t=26274s 
+# - icon:
+#   icon_pack: fab
+#   name: PDF
+#   url: https://openaccess.thecvf.com/content/CVPR2021W/OmniCV/papers/Gkitsas_PanoDR_Spherical_Panorama_Diminished_Reality_for_Indoor_Scenes_CVPRW_2021_paper.pdf 
+# - icon: github
+#   icon_pack: fab
+#   name: Code
+#   url: https://github.com/VCL3D/PanoDR
+# - icon:
+#   icon_pack: fab
+#   name: Video
+#   url: https://www.youtube.com/watch?v=xa7Fl2mD4CA&t=26274s 
 
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://openaccess.thecvf.com/content/CVPR2021W/OmniCV/papers/Gkitsas_PanoDR_Spherical_Panorama_Diminished_Reality_for_Indoor_Scenes_CVPRW_2021_paper.pdf '
+url_code: 'https://github.com/VCL3D/PanoDR'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+# url_project: 'https://vcl3d.github.io/PanoDR/'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=xa7Fl2mD4CA&t=26274s'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

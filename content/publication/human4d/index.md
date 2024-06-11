@@ -35,7 +35,7 @@ doi: "10.1109/ACCESS.2020.3026276"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2020, IEEE Access*
@@ -53,26 +53,26 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Website
+- name: Project
   url: https://vcl.iti.gr/dataset/human4d/
-- icon:
-  icon_pack: fab
-  name: PDF
-  url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9204617
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/tofis/human4d_dataset
-- icon:
-  icon_pack: fab
-  name: Data
-  url: https://ieee-dataport.org/open-access/human4d-human-centric-multimodal-dataset-motions-immersive-media
+# - icon:
+#   icon_pack: fab
+#   name: PDF
+#   url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9204617
+# - icon: github
+#   icon_pack: fab
+#   name: Code
+#   url: https://github.com/tofis/human4d_dataset
+# - icon:
+#   icon_pack: fab
+#   name: Data
+#   url: https://ieee-dataport.org/open-access/human4d-human-centric-multimodal-dataset-motions-immersive-media
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9204617'
+url_code: 'https://github.com/tofis/human4d_dataset'
+url_dataset: 'https://ieee-dataport.org/open-access/human4d-human-centric-multimodal-dataset-motions-immersive-media'
 url_poster: ''
-url_project: ''
+# url_project: 'https://vcl.iti.gr/dataset/human4d/'
 url_slides: ''
 url_source: ''
 url_video: ''

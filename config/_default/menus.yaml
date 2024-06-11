@@ -10,15 +10,18 @@ main:
   - name: Publications
     url: /#papers
     weight: 11  
-  - name: Feed
-    url: /#feed
-    weight: 12
+  # - name: Feed
+  #   url: /#feed
+  #   weight: 12
   # - name: News
   #   url: /#news
   #   weight: 14
-  - name: Talks
-    url: /#talks
+  - name: Events & Talks
+    url: /#events
     weight: 13
+  - name: Feed
+    url: /#feed
+    weight: 15
   - name: Experience
     url: experience/
     weight: 20

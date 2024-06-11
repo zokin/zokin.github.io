@@ -58,12 +58,17 @@ sections:
       columns: 2
 
 
-  - block: markdown
-    content:
-      title: Feed
-      subtitle: LinkedIn
-      text: |-
-        <div id="feed" class='sk-ww-linkedin-profile-post' data-embed-id='25423379'></div><script src='https://widgets.sociablekit.com/linkedin-profile-posts/widget.js' async defer></script>
+  # - block: markdown
+  #   content:
+  #     title: Feed
+  #     subtitle: LinkedIn
+  #     text: |-
+  #       <div id="feed" class='sk-ww-linkedin-profile-post' data-embed-id='25423379' height='400'></div><script src='https://widgets.sociablekit.com/linkedin-profile-posts/widget.js' async defer></script>
+        
+        
+# <iframe src='https://widgets.sociablekit.com/linkedin-profile-posts/iframe/25423379' frameborder='0' width='100%' height='1000'></iframe>      
+        
+# <div id="feed" class='sk-ww-linkedin-profile-post' data-embed-id='25423379' height='400'></div><script src='https://widgets.sociablekit.com/linkedin-profile-posts/widget.js' async defer></script>
 
 
 #  <div class='sk-ww-linkedin-profile-post flex-none m-w-[130px] mx-auto md:mx-0' data-embed-id='25423379'></div><script src='https://widgets.sociablekit.com/linkedin-profile-posts/widget.js' async defer></script>
@@ -81,7 +86,7 @@ sections:
     content:
       title: Recent Publications
       # subtitle: Sub
-      text: "For a complete list of publications please visit my [_Google Scholar_](https://scholar.google.com/citations?user=f7hypjsAAAAJ) profile."
+      text: For a complete list of publications please visit my [__`Google Scholar`__](https://scholar.google.com/citations?user=f7hypjsAAAAJ) profile.
       filters:
         folders:
           - publication
@@ -92,16 +97,22 @@ sections:
     design:
       view: date-title-summary # date-title-summary # card # compact # citation
   - block: collection
-    id: talks
+    id: events
     content:
-      title: Recent & Upcoming Talks
+      title: Events & Talks
       filters:
         folders:
           - event
     design:
-      view: article-grid
+      view: card # article-grid
       columns: 1
 
+  - block: markdown
+    content:
+      title: Feed
+      subtitle: LinkedIn
+      text: |-
+        <div id="feed" class='sk-ww-linkedin-profile-post' data-embed-id='25423379' height='400'></div><script src='https://widgets.sociablekit.com/linkedin-profile-posts/widget.js' async defer></script>
 
   # - block: collection
   #   id: news
