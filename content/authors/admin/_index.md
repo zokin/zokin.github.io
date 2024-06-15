@@ -228,4 +228,4 @@ awards:
 ## About Me
 
 Nikolaos Zioulis is an engineer and scientist working at the intersection of computer vision, machine learning and computer graphics. 
-He is currently the CTO of Moverse, where he leads the company's technology research & development, unifying volumetric capture, AI and body simulation technology. His recent research interests include latent optimization, the use of priors for regularization, efficient neural processing and generative AI. 
+He is currently the CTO of Moverse, where he leads the company's technology research & development, unifying volumetric capture, AI and human body simulation technology. His recent research interests include latent optimization, the use of priors for regularization, efficient neural processing and generative AI. 

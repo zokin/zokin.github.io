@@ -29,7 +29,7 @@ abstract: KBody is a method for fitting a low-dimensional body model to an image
 # Summary. An optional shortened abstract.
 summary: Shape-aware, pixel-aligned human body fitting to general monocular images.
 
-tags: [Body, AI, Human Pose and Shape Estimation, Human-centric AI, Virtual Try-On, Body Fitting]
+tags: [Body  Fitting, AI, Human Pose and Shape Estimation, Human-centric AI, Virtual Try-On, Parametric Body]
 
 # Display this page in the Featured widget?
 featured: true
