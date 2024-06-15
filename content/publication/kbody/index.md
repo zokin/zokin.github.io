@@ -9,7 +9,7 @@ authors:
 - James F. O'Brien  
 
 date: "2023-04-25T00:00:00Z" # "2023-06-18T00:00:00Z"
-# doi: "10.1109/3DV.2019.00081"
+doi: "10.1109/CVPRW59228.2023.00661"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-06-19T00:00:00Z"

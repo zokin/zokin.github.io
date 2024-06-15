@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-date: 2024-05-19
+# date: 2024-05-19
 type: landing
 
 design:
@@ -11,13 +11,24 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Open Source Projects
+      text: 
       filters:
         folders:
-          - project
+          - repos
     design:
-      view: article-grid
+      view: article-grid # card # article-grid
+      fill_image: false
+      columns: 2
+  - block: collection
+    content:
+      title: Funded Projects
+      text: 
+      filters:
+        folders:
+          - grants
+    design:
+      view: article-grid # card # article-grid
       fill_image: false
       columns: 3
 ---

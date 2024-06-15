@@ -12,7 +12,7 @@ location: Online
 #   postcode: '94305'
 #   country: United States
 
-summary: Low-cost volumetric video with consumer grade sensors.
+summary: Volumetric Video-Acquisition, Compression, Interaction and Perception
 abstract: "While high-end setups currently support different facets of volumetric capture technology applications like content creation and live telepresence, there is a need to transition towards lower cost, portable setups for digitizing human performances, which are alsomore suitable for experimentation and accessible research. To encourage progress towards this, a low-cost Volumetric Capture system was developed and made openly available along with documentation covering both its software and hardware aspects."
 
 # Talk start and end times.
@@ -40,9 +40,9 @@ links:
   name: Code
   url: https://vcl3d.github.io/VolumetricCapture/
 url_code: ""
-url_pdf: ""
+url_pdf: "https://diglib.eg.org/bitstream/handle/10.2312/egt20211035/003-007.pdf?sequence=1&isAllowed=y"
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=ks7xz9RXSPo&ab_channel=EurographicsConference"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

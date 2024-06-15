@@ -25,7 +25,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks-purple.svg # stacked-peaks.svg
+          filename: stacked-peaks-purple-logo.png # stacked-peaks-purple.svg # stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
@@ -86,7 +86,8 @@ sections:
     content:
       title: Recent Publications
       # subtitle: Sub
-      text: For a complete list of publications please visit my [__`Google Scholar`__](https://scholar.google.com/citations?user=f7hypjsAAAAJ) profile.
+      text: |-
+        For a complete list of publications please visit my [**`Google Scholar`**](https://scholar.google.com/citations?user=f7hypjsAAAAJ) profile.
       filters:
         folders:
           - publication

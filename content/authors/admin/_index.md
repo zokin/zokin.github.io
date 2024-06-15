@@ -62,30 +62,30 @@ education:
     date_start: 2019-03-01
     date_end: 2023-06-30
     summary: |
-      Thesis on _Data-driven monocular depth estimation with spherical panoramas_. Supervised by [Prof Federico Alvarez](https://www.gatv.ssr.upm.es/) and [Dr. Dimitrios Zarpalas](https://vcl.iti.gr). Presented papers at 4 conferences with contributions also published in 3 journals.
+      Thesis on _Data-driven monocular depth estimation with spherical panoramas_. Supervised by [Prof. Federico Alvarez](https://www.gatv.ssr.upm.es/) and [Dr. Dimitrios Zarpalas](https://vcl.iti.gr). Presented papers at 4 conferences with contributions also published in 3 journals.
     button:
       text: 'Read Thesis'
       url: 'https://oa.upm.es/74385/1/NIKOLAOS_ZIOULIS_01.pdf'
-  - area: BSc & MSc Electrical & Computer Engineer
-    institution: Aristotle University of Thessaloniki (AUTH)
+  - area: BSc & MSc EECS
+    institution: Aristotle University of Thessaloniki
     date_start: 2002-09-01
     date_end: 2012-07-24
     summary: |
       Grade: 7.03/10.0
       
-      Thesis on _Development of image processing algorithms and graphical interface for the estimation of the contours and healing rate of skin ulcers_.
+      Thesis on _Development of image processing algorithms and graphical interface for the estimation of the contours and healing rate of skin ulcers_. Supervised by [Prof. Leontios J. Hadjileontiadis](https://scholar.google.com/citations?user=OfAkcXkAAAAJ).
 work:
   - position: Chief Technology Officer (CTO)
     company_name: Moverse P.C.
     company_url: 'https://www.moverse.ai'
-    company_logo: 'moverse-logo-white'
+    company_logo: 'moverse_new_logo_trademark_white' # 'moverse-logo-white'
     date_start: 2021-02-01
     date_end: ''
     summary: |2-
       * All Things Motion
       * Principal Scientist
-      * Lead Developer
-      * Technical Overview        
+      * Roadmap Development
+      * Technical Lead        
       * Intellectual Property 
   - position: R&D & Technology Consultant
     company_name: Klothed Technologies Inc.
@@ -98,7 +98,10 @@ work:
       * Research & Development
       * Technical Consultancy 
       * Human Body Fitting
-      * Virtual TryOn   
+      * Virtual TryOn
+    button:
+      text: 'KBody'
+      url: '../publication/kbody/'
   - position: Research Associate
     company_name: Visual Computing Lab, Information Technologis Institute, Centre for Research and Technology Hellas
     company_url: 'https://vcl.iti.gr'
@@ -111,7 +114,9 @@ work:
         * Project Management
         * Funding Acquisition
         * Team Technical Leading
-
+    button:
+      text: 'R&D'
+      url: '../publication/'      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:

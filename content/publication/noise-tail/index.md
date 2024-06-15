@@ -12,7 +12,7 @@ authors:
 - Kostas Kolomvatsos  
 
 date: "2023-10-03T00:00:00Z" # "2023-06-18T00:00:00Z"
-# doi: "10.1109/3DV.2019.00081"
+doi: "10.1109/ICCVW60793.2023.00458"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
