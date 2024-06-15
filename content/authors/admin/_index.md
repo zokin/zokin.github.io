@@ -62,7 +62,7 @@ education:
     date_start: 2019-03-01
     date_end: 2023-06-30
     summary: |
-      Thesis on _Data-driven monocular depth estimation with spherical panoramas_. Supervised by [Prof. Federico Alvarez](https://www.gatv.ssr.upm.es/) and [Dr. Dimitrios Zarpalas](https://vcl.iti.gr). Presented papers at 4 conferences with contributions also published in 3 journals.
+      Thesis on _Data-driven monocular depth estimation with spherical panoramas_. Supervised by [Prof. Federico Alvarez](https://scholar.google.com/citations?user=Zvgjb28AAAAJ) and [Dr. Dimitrios Zarpalas](https://scholar.google.com/citations?user=E_OpMDAAAAAJ). Presented papers at 4 conferences with contributions also published in 3 journals.
     button:
       text: 'Read Thesis'
       url: 'https://oa.upm.es/74385/1/NIKOLAOS_ZIOULIS_01.pdf'

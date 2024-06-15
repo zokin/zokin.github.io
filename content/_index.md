@@ -84,14 +84,14 @@ sections:
   
   - block: collection
     content:
-      title: Recent Publications
+      title: Other Recent Publications
       # subtitle: Sub
       text: |-
-        For a complete list of publications please visit my [**`Google Scholar`**](https://scholar.google.com/citations?user=f7hypjsAAAAJ) profile.
+        For a complete list of publications please visit my [**Google Scholar**](https://scholar.google.com/citations?user=f7hypjsAAAAJ) profile.
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: true # false
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false

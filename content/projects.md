@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Open Source Projects
+      title: Open Source
       text: 
       filters:
         folders:
@@ -22,7 +22,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Funded Projects
+      title: Funding
       text: 
       filters:
         folders:
