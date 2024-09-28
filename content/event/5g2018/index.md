@@ -38,7 +38,7 @@ image:
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
-#   url: https://twitter.com/georgecushen
+#   url: https://twitter.com/xxxx
 url_code: ""
 url_pdf: ""
 url_slides: "uploads/5g_summit_slides.pdf"
