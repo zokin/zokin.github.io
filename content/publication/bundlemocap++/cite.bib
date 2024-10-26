@@ -1,0 +1,13 @@
+@article{ALBANIS2024104190,
+title = {BundleMoCap++: Efficient, robust and smooth motion capture from sparse multiview videos},
+journal = {Computer Vision and Image Understanding},
+volume = {249},
+pages = {104190},
+year = {2024},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104190},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224002716},
+author = {Georgios Albanis and Nikolaos Zioulis and Kostas Kolomvatsos},
+keywords = {Markerless motion capture, Human pose estimation, Human pose prior},
+abstract = {Producing smooth and accurate motions from sparse videos without requiring specialized equipment and markers is a long-standing problem in the research community. Most approaches typically involve complex processes such as temporal constraints, multiple stages combining data-driven regression and optimization techniques, and bundle solving over temporal windows. These increase the computational burden and introduce the challenge of hyperparameter tuning for the different objective terms. In contrast, BundleMoCap++ offers a simple yet effective approach to this problem. It solves the motion in a single stage, eliminating the need for temporal smoothness objectives while still delivering smooth motions without compromising accuracy. BundleMoCap++ outperforms the state-of-the-art without increasing complexity. Our approach is based on manifold interpolation between latent keyframes. By relying on a local manifold smoothness assumption and appropriate interpolation schemes, we efficiently solve a bundle of frames using two or more latent codes. Additionally, the method is implemented as a sliding window optimization and requires only the first frame to be properly initialized, reducing the overall computational burden. BundleMoCap++’s strength lies in achieving high-quality motion capture results with fewer computational resources. To do this efficiently, we propose a novel human pose prior that focuses on the geometric aspect of the latent space, modeling it as a hypersphere, allowing for the introduction of sophisticated interpolation techniques. We also propose an algorithm for optimizing the latent variables directly on the learned manifold, improving convergence and performance. Finally, we introduce high-order interpolation techniques adapted for the hypersphere, allowing us to increase the solving temporal window, enhancing performance and efficiency.}
+}
